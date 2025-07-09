@@ -19,29 +19,29 @@
 * ### Основной стек
     Python, FastAPI, Docker — Разработка бэкенда.
     <p align="left">
-      <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
-      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
+      <img src="python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
+      <img src="fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
+      <img src="docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
     </p>
 
 * ### Дополнительный стек
     PostgreSQL, HTML, CSS, NumPy, Matplotlib, Pandas, Jupyter Notebook — Разработка несложных сайтов, анализ данных.
     <p align="left">
-      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL"> 
-      <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5p" draggable="false" title="CSS">
-      <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
-      <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
-      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
-      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
+      <img src="postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL"> 
+      <img src="html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
+      <img src="css-3.svg" width=35px style="padding-right:5p" draggable="false" title="CSS">
+      <img src="numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
+      <img src="matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
+      <img src="pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
+      <img src="jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
   </p>
 
 
 * ### Другое
     Git, GitHub — системы контроля версий.
     <p align="left">
-      <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
-      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
+      <img src="git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
+      <img src="github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
     </p>
 
 
