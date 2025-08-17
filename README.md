@@ -1,30 +1,30 @@
 <section id="content">
 <div markdown="1">
 
-# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы</a>
+# <a id="works_ru" href="#works_ru">👨🏻‍💻 Work experience</a>
 
-* ### Python-разработчик
+* ### Python-developer
 
-    *2024-н.в. [Сообщество Viribus Unitis](https://github.com/profcomff)*
+    *2024-н.в. [Community Viribus Unitis](https://github.com/profcomff)*
 
-    Разрабатываю в команде микросервисы для факультетского приложения 
+    I develop microservices for the faculty application in the team.
 
-# <a id="education_ru" href="#education_ru">🎓 Образование</a>
+# <a id="education_ru" href="#education_ru">🎓 Education</a>
    
-   (МГУ) Московский государственный университет имени М.В.Ломоносова
+   (MSU) Lomonosov Moscow State University
 
 # <a id="skills_ru" href="#skills_ru">🛠️ Hard skills</a>
 
-* ### Основной стек
-    Python, FastAPI, Docker — Разработка бэкенда.
+* ### Main stack
+    Python, FastAPI, Docker — Backend development.
     <p align="left">
       <img src="python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
       <img src="docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
     </p>
 
-* ### Дополнительный стек
-    PostgreSQL, HTML, CSS, NumPy, Matplotlib, Pandas, Jupyter Notebook — Разработка несложных сайтов, анализ данных.
+* ### Additional stack
+    PostgreSQL, HTML, CSS, NumPy, Matplotlib, Pandas, Jupyter Notebook — Development of simple websites, data analysis.
     <p align="left">
       <img src="postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL"> 
       <img src="html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
@@ -36,21 +36,21 @@
   </p>
 
 
-* ### Другое
-    Git, GitHub — системы контроля версий.
+* ### Other
+    Git, GitHub — Version control systems.
     <p align="left">
       <img src="git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
     </p>
 
 
-# <a id="projects_ru" href="#projects_ru">🧩 Публичные проекты </a>
-Скоро появятся, пока все что есть находится в репозиториях.
+# <a id="projects_ru" href="#projects_ru">🧩 Public projects </a>
+Soon they will appear, now everything is in the repositories.
 
 # <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
-* Телеграм: [@commanderChe](https://t.me/commanderChe)
-* Почта: [petr8367474@yandex.ru](mailto:petr8367474@yandex.ru)
-* Профиль на [GitHub](https://github.com/petrCher)
+* Telegram: [@commanderChe](https://t.me/commanderChe)
+* Mail: [petr8367474@yandex.ru](mailto:petr8367474@yandex.ru)
+* Profile on [GitHub](https://github.com/petrCher)
 
 </div>
 </section>
