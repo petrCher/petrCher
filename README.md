@@ -5,7 +5,7 @@
 
 * ### Python-developer
 
-    *2024-н.в. [Community Viribus Unitis](https://github.com/profcomff)*
+    *2024-till now. [Community Viribus Unitis](https://github.com/profcomff)*
 
     I develop microservices for the faculty application in the team.
 
