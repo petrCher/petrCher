@@ -47,7 +47,7 @@
 # <a id="projects_ru" href="#projects_ru">🧩 Public projects </a>
 Soon they will appear, now everything is in the repositories.
 
-# <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
+# <a id="contacts_ru" href="#contacts_ru">📧 Contacts</a>
 * Telegram: [@commanderChe](https://t.me/commanderChe)
 * Mail: [petr8367474@yandex.ru](mailto:petr8367474@yandex.ru)
 * Profile on [GitHub](https://github.com/petrCher)
